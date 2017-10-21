@@ -1,7 +1,7 @@
 # subdb-fetcher
 
 
-A badly written NodeJS script that downloads subtitles for all video files in a specified directory.
+A badly written NodeJS script that downloads subtitles from [SubDB](thesubdb.com) for all video files in a specified directory.
 
 ```
 node subdb-fetcher "D:\Movies"
