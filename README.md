@@ -11,3 +11,6 @@ Can be added to a torrent client such as **qBittorrent** to download subtitles a
 
 * qBittorrent > Settings > Downloads > Run external program on torrent completion
 * `node c:\scripts\subdb-fetcher.js "%R"`
+
+
+Subtitles language is English, hard coded, due to excessive laziness.
